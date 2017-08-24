@@ -1,1 +1,1 @@
-
+var slideshow = "slideshowApp";
